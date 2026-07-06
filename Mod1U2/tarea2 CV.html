@@ -13,20 +13,54 @@
      es una página abierta-->
     <p>Desarrolladora Web</p>
 
-    <img src="foto1.jpg" alt="Imagen de CV" width="200px" height="100px" />
+    <img src="foto1.jpg" alt="Imagen de CV" width="200px" height="200px" />
+
     <h2>Sobre mí</h2>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
-        Praesentium dicta sit aspernatur repellat nostrum inventore!
-        Explicabo, voluptatum, labore nesciunt autem repudiandae earum
-        quaerat dignissimos accusamus deleniti optio alias, fugiat maiores.</p>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+       <p> Praesentium dicta sit aspernatur repellat nostrum inventore!</p>
+       <p> Explicabo, voluptatum, labore nesciunt autem repudiandae earum</p>
+       <p> quaerat dignissimos accusamus deleniti optio alias, fugiat maiores.</p>
     <h2>Experiencia Laboral</h2>
 
-    <li>Desarrolladora Web en Empresa X (2020-2022)</li>
-    <li>Diseñadora Gráfica en Empresa Y (2018-2020)</li>
-    </ul>
-    <h2>Educación</h2>
     <ul>
+        <li>Desarrolladora Web en Empresa DIA (2020-2022)</li>
+        <li>Diseñadora Gráfica en Empresa COSCO (2018-2020)</li>
+        <li>Diseñadora Gráfica en Empresa XEROX (2020-2022)</li>
+    </ul>
+
+    <h2>Educación</h2>
+    <ol>
         <li>Licenciatura en Diseño Gráfico - Universidad Z (2014-2018)</li>
-    </ul>/body>
+        <li>Curso de Desarrollo Web - Academia Y (2019)</li>
+        <li>Curso de Diseño UX/UI - Plataforma Z (2020)</li>
+    </ol>
+
+
+    <h2>Perfil</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+
+    <p> Praesentium dicta sit aspernatur repellat nostrum inventore! </p>
+    <p> Explicabo, voluptatum, labore nesciunt autem repudiandae earum </p>
+    <p> quaerat dignissimos accusamus deleniti optio alias, fugiat maiores.</p>
+
+    <h2>Si quieres contactar conmigo, rellena el formulario:</h2>
+
+    <form action="procesar_formulario.php" method="POST">
+        <label for="nombre">Nombre:</label>
+        <input type="text" id="nombre" name="nombre" required><br><br>
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required><br><br>
+
+        <label for="mensaje">Mensaje:</label><br>
+        <textarea id="mensaje" name="mensaje" rows="4" cols="50" required></textarea><br><br>
+
+        <input type="submit" value="Enviar">
+    </form>
+
+    <p>Email: sara.lopez@example.com</p>
+    <p>Teléfono: +1 234 567 890</p>
+</body>
 
 </html>
