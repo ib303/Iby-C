@@ -1,4 +1,2 @@
 * Galletitas
-*Pan
-*Lechuga
-*Tofu
+* Bananas
