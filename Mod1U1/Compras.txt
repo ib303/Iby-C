@@ -1,2 +1,6 @@
 * Galletitas
 * Bananas
+* Buscador
+* Footer
+* Acentos
+
