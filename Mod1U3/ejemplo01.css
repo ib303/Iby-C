@@ -1,0 +1,36 @@
+h1 {
+    color: red;
+    /*color de la fuente*/
+    font-family: Arial;
+    /*tipo de fuente*/
+    background-color: yellow;
+    /*color de fondo*/
+    text-align: center;
+    text-transform: uppercase;
+
+
+}
+
+p {
+    color: green;
+    /*color de la fuente*/
+    font-family: Courier New;
+    /*tipo de fuente*/
+    line-height: 35px;
+
+}
+
+h2 {
+    color: blue;
+    /*color de la fuente*/
+}
+.destacados {
+    color: rgb(235, 84, 14);
+    /*color de la fuente*/
+    font-family: Verdana;
+    /*tipo de fuente*/
+    background-color: lightgray;
+    /*color de fondo*/
+    font-style: italic;
+
+}
