@@ -1,4 +1,5 @@
-/* Estilos generales para las cajas */
+/* Estilos de 
+ las cajas */
 .caja {
     width: 150px;
     height: 150px;
@@ -6,7 +7,8 @@
     font-family: Arial, sans-serif;
     font-size: 20px;
     
-    /* Flexbox para centrar el número dentro de cada cuadrado */
+    /* Flexbox para centrar el número dentro de cada cuad
+     */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -24,7 +26,8 @@
     background-color: green;
 }
 
-/* Estilo base para los contenedores con borde negro */
+/* Estilo base para los contenedores con bodre 
+negro */
 .contenedor {
     border: 2px solid black;
     margin-bottom: 40px;
@@ -32,7 +35,7 @@
 }
 
 /* --- EJERCICIO 1 --- */
-/* Columna alineada a la derecha */
+/* Columna alineda a la derecha */
 .ejercicio-1 {
     width: 450px;
     height: 450px;
@@ -41,7 +44,8 @@
 }
 
 /* --- EJERCICIO 2 --- */
-/* Fila invertida (3, 2, 1) centrada verticalmente */
+/* Fila inver.(3, 2, 1) centrada 
+*/
 .ejercicio-2 {
     width: 450px;
     height: 450px;
@@ -50,7 +54,8 @@
 }
 
 /* --- EJERCICIO 3 --- */
-/* Fila con espacio distribuido entre los extremos */
+/* Fila con espacio distribuido entre los extr
+ */
 .ejercicio-3 {
     width: 100%;
     max-width: 900px;
