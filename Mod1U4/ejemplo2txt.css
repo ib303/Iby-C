@@ -1,0 +1,29 @@
+/* Fleur De Leah: CSS class   font-family: "Fleur De Leah", cursive
+ font-family: "Fleur De Leah", cursive;
+  font-weight: 400;
+  font-style: normal;
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Fleur+De+Leah&display=swap');
+
+H2 {
+    font-family: 'Fleur De Leah', cursive;
+    font-size: 50px;
+    color: rgb(231, 7, 7);
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(255, 255, 255);
+
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+
+}
+
+.mano {
+    font-size: 100px;
+    color: rgb(231, 7, 7);
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(255, 255, 255);
+}

@@ -25,11 +25,11 @@ h2 {
     /*color de la fuente*/
 }
 .destacados {
-    color: rgb(235, 84, 14);
-    /*color de la fuente*/
+    color: rgb(153, 70, 231)
+       /*color de la fuente*/
     font-family: Verdana;
     /*tipo de fuente*/
-    background-color: lightgray;
+    background-color: pink;
     /*color de fondo*/
     font-style: italic;
 
